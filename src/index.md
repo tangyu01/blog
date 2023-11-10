@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /logo.png
+heroImage: /鱼跃此时海.jpeg
 actionText: 热点技术
 actionLink: /tech/
 

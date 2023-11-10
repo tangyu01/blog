@@ -12,12 +12,12 @@ module.exports = {
   "lang": "zh-cn",
   outDir: '../docs',
   base:'/blog/',
-  title: '三一习惯',
+  title: '笔记',
   description: '每周跑一十公里强体魄，每周读一本好书启智慧，每周做一次公益得快乐~',
-  head: [['link', { rel: 'icon', type: 'image/svg+xml', href: '/logo.png' }]],
+  head: [['link', { rel: 'icon', type: 'image/svg+xml+jpeg', href: '/鱼跃此时海.jpeg' }]],
   themeConfig: {
-    repo: 'kongwutw/blog',
-    logo: '/logo.png',
+    repo: 'tangyu/blog',
+    logo: '/鱼跃此时海.jpeg',
     docsDir: 'docs',
     docsBranch: 'main',
     nav: [
