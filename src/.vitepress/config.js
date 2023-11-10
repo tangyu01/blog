@@ -13,7 +13,7 @@ module.exports = {
   outDir: '../docs',
   base:'/blog/',
   title: '笔记',
-  description: '每周跑一十公里强体魄，每周读一本好书启智慧，每周做一次公益得快乐。',
+  description: '每周跑一十公里强体魄，每周读一本好书启智慧，每周做一次公益得快乐~',
   head: [['link', { rel: 'icon', type: 'image/svg+xml+jpeg', href: '/鱼跃此时海.jpeg' }]],
   themeConfig: {
     repo: 'tangyu/blog',
